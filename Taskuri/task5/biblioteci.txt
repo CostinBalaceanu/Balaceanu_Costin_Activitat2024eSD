@@ -1,0 +1,11 @@
+10
+1,Biblioteca Centrala,Bucuresti,10000
+2,Biblioteca Judeteana,Cluj,8000
+3,Biblioteca Metropolitana,Iasi,12000
+4,Biblioteca Universitara,Timisoara,9500
+5,Biblioteca de Arte,Constanta,5000
+6,Biblioteca Digitala,Sibiu,15000
+7,Biblioteca Nationala,Brasov,11000
+8,Biblioteca Europeana,Craiova,7000
+9,Biblioteca Istorica,Galati,6500
+10,Biblioteca Municipala,Ploiesti,8500
